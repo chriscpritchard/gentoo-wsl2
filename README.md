@@ -1,5 +1,5 @@
 # gentoo-wsl2
-![Gentoo Running on WSL2](gentoo.png "Gentoo-WSL2")
+![Gentoo Running on WSL2](Gentoo.png "Gentoo-WSL2")
 ## Requirements
 - Windows 10 build 18917 or higher
 - WSL
